@@ -5,7 +5,7 @@
 /**
  * main -Entry point
  *
- * Description: generates random numbers, declares + OR -
+ * Description: generates determines if a number is positive, negative oe zero.-
  *
  *  Return: Always (0) Success
 */
